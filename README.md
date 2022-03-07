@@ -1,2 +1,3 @@
-# stsclass8
-Exam related Programs for STS Ranchi
+Programs related to Third Terminal Examination
+
+
